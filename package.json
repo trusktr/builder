@@ -10,7 +10,7 @@
     "mkdirp": "^0.5.0",
     "rsvp": "^3.0.14",
     "source-map": "~0.1.8",
-    "systemjs": "^0.11.0",
+    "systemjs": "trusktr/systemjs#jspm",
     "traceur": "0.0.79",
     "uglify-js": "^2.4.15"
   },
